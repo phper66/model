@@ -1,0 +1,12 @@
+{
+    "name": "ziyun/model",
+    "description": "The Z Framework model",
+     "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "ziyun",
+            "email": "1677658490@qq.com"
+        }
+    ],
+    "require": {}
+}
