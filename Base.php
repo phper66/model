@@ -6,7 +6,7 @@
  * Time: 16:55
  */
 
-namespace zf\model;
+namespace ziyun\model;
 
 use PDO;
 use PDOException;
